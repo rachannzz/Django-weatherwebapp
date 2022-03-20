@@ -1,8 +1,4 @@
-diff --git a/README.md b/README.md
-index aade7bc..e394bbc 100644
---- a/README.md
-+++ b/README.md
-@@ -1,23 +1,21 @@
+
  # Django-weatherwebapp
  
  
